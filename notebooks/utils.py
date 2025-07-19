@@ -42,11 +42,7 @@ def test(
     nelem: dict[str, int] | None = {},
     B: dict[str, int] | None = {"B0": 32},
 ):
-    interpret = (
-        True
-        if "INTERPRET" in os.environ and os.environ["INTERPRET"] == "True"
-        else False
-    )
+    interpret = "INTERPRET" in os.environ and os.environ["INTERPRET"] == "False"
     rtol: float = 1e-3
     atol: float = 1e-3
 
