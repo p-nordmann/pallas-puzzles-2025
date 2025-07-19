@@ -7,7 +7,7 @@ _This is a direct fork of the [Pallas Puzzles](https://github.com/rdyro/Pallas-P
 _Pallas being an experimental feature in Jax, its API is susceptible of changing often. For that reason, the original Pallas Puzzles repository was not in sync with the latest Pallas APIs, nor the recommended way of handling memory. This fork is targetted at fixing those two points. I will take the liberty of changing the exercises to allow teaching the modern way of manipulating memory in Pallas._
 
 <p align="center">
-<img style="max-width:200px;width:100%;max-height:200px" src="assets/pallas_puzzles_logo.svg">
+<img width="200" height="200" src="assets/pallas_puzzles_logo.svg">
 </p>
 
 Originally by Robert Dyro, Ed Schmerling; forked and updated by Pierre-Louis Nordmann.
