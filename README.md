@@ -4,7 +4,7 @@
 
 _This is a direct fork of the [Pallas Puzzles](https://github.com/rdyro/Pallas-Puzzles) on Github, itself a direct fork of [Triton Puzzles](https://github.com/srush/Triton-Puzzles), but adapted for the Pallas language for using a Triton-like kernel language (Pallas) in JAX._
 
-_Pallas being an experimental feature in Jax, its API is susceptible of changing often. For that reason, the original Pallas Puzzles repository was not in sync with the latest Pallas APIs, nor the recommended way of handling memory. This fork is targetted at fixing those two points. I will take the liberty of changing the exercises to allow teaching the modern way of manipulating memory in Pallas._
+_Pallas being an experimental feature in Jax, its API is susceptible of changing often. For that reason, the original Pallas Puzzles repository was not in sync with the latest Pallas APIs. This fork is targetted at fixing this. I will also take the liberty of changing the exercises to allow teaching another way of manipulating memory in Pallas._
 
 <p align="center">
 <img width="200" height="200" src="assets/pallas_puzzles_logo.svg">
